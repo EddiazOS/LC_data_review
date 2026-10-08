@@ -1,0 +1,20 @@
+# Archivos pesados, carpetas crudas y respaldos locales
+01_Datos_Experimentales/
+02_Manuscritos/
+03_Archivos_de_Referencia/
+04_Backups/
+Resultados/
+Resultados-*.zip
+*.zip
+*.docx
+*.pdf
+*.xlsx
+*.xls
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv
+.agents/

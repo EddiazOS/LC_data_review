@@ -1,0 +1,45 @@
+sample_id,sample_code_lab,sample_code_orig,city,microenvironment,raw_location_code,raw_environment_desc
+1,UA-01,BO-MP-005,Bogota,House,LOC.1BGTA,House
+2,UA-02,BO-MP-006,Bogota,House,,House
+3,UA-03,BO-MP-007,Bogota,House,,House
+4,UA-04,BO-MP-008,Bogota,House,,House
+5,UA-05,BO-MP-009,Bogota,House,,House
+6,UA-06,BO-MP-010,Bogota,House,,House
+7,UA-07,BO-MP-011,Bogota,House,,House
+8,UA-08,BO-MP-013,Bogota,House,,House
+9,UA-09,BO-MP-018,Bogota,House,,House
+10,UA-10,BO-MP-021,Bogota,House,,House
+11,UA-11,BO-MP-022,Bogota,House,,House
+12,UA-12,BO-MP-024,Bogota,House,,House
+13,UA-13,BO-MP-028,Bogota,House,,House
+14,UA-14,BO-MP-030,Bogota,House,,House
+15,UA-15,CA-PV-007,Cartagena,Car,LOC.2 CTGA,Car Dust 
+16,UA-16,CA-PV-023,Cartagena,Car,,Car Dust 
+17,UA-17,CA-PV-023 auto,Cartagena,Car,,Car Dust 
+18,UA-18,CA-PV-026,Cartagena,Car,,Car Dust 
+19,UA-19,CA-PV-029,Cartagena,Car,,Car Dust 
+20,UA-20,ME-PO-001,Medellin,Office,LOC3.MED,Office
+21,UA-21,ME-PCM-001,Medellin,House,,House
+22,UA-22,ME-PO-002-LAB,Medellin,Office,,Office
+23,UA-23,ME-PCM-002,Medellin,House,,House
+24,UA-24,ME-PO-003,Medellin,Office,,Office
+25,UA-25,ME-PAM-003,Medellin,Car,,Car
+26,UA-26,ME-PO-005-SALON,Medellin,Office,,Office
+27,UA-27,ME-PCM-005,Medellin,House,,House
+28,UA-28,ME-PO-007,Medellin,Office,,Office
+29,UA-29,ME-PAM-07,Medellin,Car,,Car
+30,UA-30,ME-PCM-07,Medellin,House,,House
+31,UA-31,ME-PO-008,Medellin,Office,,Office
+32,UA-32,ME-PAM-008,Medellin,Car,,Car
+33,UA-33,ME-PCM-008,Medellin,House,,House
+34,UA-34,ME-PAM-009,Medellin,Car,,Car
+35,UA-35,ME-PCM-009,Medellin,House,,House
+36,UA-36,ME-PO-12-ALM,Medellin,Office,,Office
+37,UA-37,ME-PCM-12,Medellin,House,,House
+38,UA-38,ME-PO-13-LAB,Medellin,Office,,Office
+39,UA-39,ME-PCM-13,Medellin,House,,House
+40,UA-40,ME-PAM-13,Medellin,Car,,Car
+41,UA-41,ME-PAM-23,Medellin,Car,,Car
+42,UA-42,ME-PCM-23,Medellin,House,,House
+43,UA-43,ME-PAM-25,Medellin,Car,,Car
+44,UA-44,ME-PCM-25,Medellin,House,,House

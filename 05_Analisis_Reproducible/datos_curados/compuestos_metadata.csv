@@ -1,0 +1,36 @@
+compound_id,family,acronym,iupac_name,cas_rn,empirical_formula,mw_g_mol,log_kow
+1,APs,ATBC,Acetyl tributyl citrate,77-90-7,C20H34O8,402.48,3.3
+2,APs,ATEC,Acetyl triethyl citrate,77-89-4,C14H22O8,318.32,0.6
+3,APs,BTHC,Butyryl trihexyl citrate,82469-79-2,C28H50O8,514.7,7.4
+4,APs,CDPHP,Cresyl diphenyl phosphate,26444-49-5,C19H17O4P,340.31,5.3
+5,APs,DBS,Dibutyl sebacate,109-43-3,C18H34O4,314.47,5.3
+6,APs,DEHA,Bis(2-ethylhexyl) adipate,103-23-1,C22H42O4,370.57,6.8
+7,APs,DIBA,Diisobutyl adipate,141-04-8,C14H26O4,258.36,3.2
+8,APs,DINCH,"Diisononyl cyclohexane-1,2-dicarboxylate",166412-78-8,C26H48O4,424.67,8.9
+9,APs,THTM,Trihexyl trimellitate,1528-49-0,C27H42O6,462.63,8.5
+10,APs,TOTM,Trioctyl trimellitate,3319-31-1,C33H54O6,546.79,10.4
+11,PFRs,BDP,Bisphenol A bis(diphenyl phosphate),5945-33-5,C39H34O8P2,692.64,10.8
+12,PFRs,EHDPHP,2-Ethylhexyl diphenyl phosphate,1241-94-7,C20H27O4P,362.41,6.3
+13,PFRs,RDP,Resorcinol bis(diphenyl phosphate),57583-54-7,C30H24O8P2,574.46,7.6
+14,PFRs,TBOEP,Tris(2-butoxyethyl) phosphate,78-51-3,C18H39O7P,398.48,2.8
+15,PFRs,TBP1,Tributyl phosphate,126-73-8,C12H27O4P,266.32,2.9
+16,PFRs,TBP2,Triisobutyl phosphate,126-71-6,C12H27O4P,266.32,3.5
+17,PFRs,TBuPhP,tert-Butylphenyl diphenyl phosphate,56803-37-3,C22H23O4P,382.4,6.3
+18,PFRs,TCEP,Tris(2-chloroethyl) phosphate,115-96-8,C6H12Cl3O4P,285.49,1.3
+19,PFRs,TCIPP,Tris(1-chloro-2-propyl) phosphate,13674-84-5,C9H18Cl3O4P,327.57,2.6
+20,PFRs,TDBPP,"Tris(2,3-dibromopropyl) phosphate",126-72-7,C9H15Br6O4P,697.61,4.3
+21,PFRs,TDCIPP,"Tris(1,3-dichloro-2-propyl) phosphate",13674-87-8,C9H15Cl6O4P,430.91,3.3
+22,PFRs,TEHP,Tris(2-ethylhexyl) phosphate,78-42-2,C24H51O4P,434.64,8.9
+23,PFRs,TEP,Triethyl phosphate,78-40-0,C6H15O4P,182.16,0.8
+24,PFRs,TPhP,Triphenyl phosphate,115-86-6,C18H15O4P,326.29,4.6
+25,PFRs,TpTP,Tri-p-tolyl phosphate,78-32-0,C21H21O4P,368.37,5.1
+26,PFRs,V6,"2,2-bis(chloromethyl)propane-1,3-diyl tetrakis(2-chloroethyl) bis(phosphate)",38051-10-4,C13H24Cl6O8P2,582.99,2.5
+27,PFRs,iDPP,Isodecyl diphenyl phosphate,29761-21-5,C22H31O4P,390.46,7.4
+28,PHs,BBzP,Butyl benzyl phthalate,85-68-7,C19H20O4,312.36,4.9
+29,PHs,DEP,Diethyl phthalate,84-66-2,C12H14O4,222.24,2.5
+30,PHs,DIDP,Diisodecyl phthalate,26761-40-0,C28H46O4,446.67,10.6
+31,PHs,DINP,Diisononyl phthalate,28553-12-0,C26H42O4,418.62,9.6
+32,PHs,DMP,Dimethyl phthalate,131-11-3,C10H10O4,194.19,1.6
+33,PHs,DPP,Dipentyl phthalate,131-18-0,C18H26O4,306.4,5.8
+34,PHs,DiBP,Diisobutyl phthalate,84-69-5,C16H22O4,278.35,4.1
+35,PHs,DnBP,Dibutyl phthalate,84-74-2,C16H22O4,278.35,4.7
