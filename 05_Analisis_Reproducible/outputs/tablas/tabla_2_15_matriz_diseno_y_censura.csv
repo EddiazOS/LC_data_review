@@ -1,0 +1,36 @@
+Compound,Family,Detections,Total_Samples,DF_pct,ND_pct,Eligible_Model,Approach
+ATBC,APs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+ATEC,APs,39,44,88.64,11.36,Elegible (DF >= 50%),Modelado Log10 & Residuos
+BTHC,APs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+CDPHP,APs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+DBS,APs,31,44,70.45,29.55,Elegible (DF >= 50%),Modelado Log10 & Residuos
+DEHA,APs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+DIBA,APs,15,44,34.09,65.91,Excluido (ND > 50%),Descriptivo / Proporciones
+DINCH,APs,33,44,75.0,25.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+THTM,APs,42,44,95.45,4.55,Elegible (DF >= 50%),Modelado Log10 & Residuos
+TOTM,APs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+BDP,PFRs,41,44,93.18,6.82,Elegible (DF >= 50%),Modelado Log10 & Residuos
+EHDPHP,PFRs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+RDP,PFRs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+TBOEP,PFRs,43,44,97.73,2.27,Elegible (DF >= 50%),Modelado Log10 & Residuos
+TBP1,PFRs,40,44,90.91,9.09,Elegible (DF >= 50%),Modelado Log10 & Residuos
+TBP2,PFRs,41,44,93.18,6.82,Elegible (DF >= 50%),Modelado Log10 & Residuos
+TBuPhP,PFRs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+TCEP,PFRs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+TCIPP,PFRs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+TDBPP,PFRs,5,44,11.36,88.64,Excluido (ND > 50%),Descriptivo / Proporciones
+TDCIPP,PFRs,15,44,34.09,65.91,Excluido (ND > 50%),Descriptivo / Proporciones
+TEHP,PFRs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+TEP,PFRs,14,44,31.82,68.18,Excluido (ND > 50%),Descriptivo / Proporciones
+TPhP,PFRs,43,44,97.73,2.27,Elegible (DF >= 50%),Modelado Log10 & Residuos
+TpTP,PFRs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+V6,PFRs,17,44,38.64,61.36,Excluido (ND > 50%),Descriptivo / Proporciones
+iDPP,PFRs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+BBzP,PHs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+DEP,PHs,42,44,95.45,4.55,Elegible (DF >= 50%),Modelado Log10 & Residuos
+DIDP,PHs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+DINP,PHs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+DMP,PHs,42,44,95.45,4.55,Elegible (DF >= 50%),Modelado Log10 & Residuos
+DPP,PHs,33,44,75.0,25.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+DiBP,PHs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos
+DnBP,PHs,44,44,100.0,0.0,Elegible (DF >= 50%),Modelado Log10 & Residuos

@@ -1,0 +1,40 @@
+Variable,Family,DF_pct,ND_pct,Shapiro_Resid_W,Shapiro_Resid_p,Norm_Resid,Levene_Cell_stat,Levene_Cell_p,Homoced_Cell,Method_Branch,Primary_Test,Post_Hoc_Test
+Sum_Total,Global,100.0,0.0,0.9195,0.004595836817260522,No Normal (p < 0.05),2.9995,0.02990148783080114,Heterocedástico (p < 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
+Sum_APs,Global,100.0,0.0,0.9621,0.15524403918110002,Normal (p >= 0.05),1.589,0.19650644933668188,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+Sum_PFRs,Global,100.0,0.0,0.9526,0.06858451726986761,Normal (p >= 0.05),1.1973,0.32735842489788575,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+Sum_PHs,Global,100.0,0.0,0.8827,0.0003330410630408711,No Normal (p < 0.05),1.556,0.20529229064060642,Homocedástico (p >= 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
+ATBC,APs,100.0,0.0,0.9826,0.7368988720323735,Normal (p >= 0.05),1.995,0.11433343215533946,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+ATEC,APs,88.64,11.36,0.9609,0.14011243570460608,Normal (p >= 0.05),0.6245,0.6478314170350736,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+BTHC,APs,100.0,0.0,0.985,0.8306230175504394,Normal (p >= 0.05),2.1121,0.09770789603437396,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+CDPHP,APs,100.0,0.0,0.9127,0.0027407221106556822,No Normal (p < 0.05),0.7707,0.5508890126756291,Homocedástico (p >= 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
+DBS,APs,70.45,29.55,0.9504,0.056753927522572425,Normal (p >= 0.05),1.9488,0.12163489312978613,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+DEHA,APs,100.0,0.0,0.9786,0.5795424801129825,Normal (p >= 0.05),1.1806,0.3343769680014668,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+DIBA,APs,34.09,65.91,,,N/A (ND > 50%),,,N/A (ND > 50%),Rama 4: Descriptivo / Censurado,Estadística Descriptiva & Proporciones,N/A
+DINCH,APs,75.0,25.0,0.9502,0.05616922167738243,Normal (p >= 0.05),2.4221,0.06447683757885517,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+THTM,APs,95.45,4.55,0.8557,6.133501254045628e-05,No Normal (p < 0.05),0.6733,0.6145047404383126,Homocedástico (p >= 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
+TOTM,APs,100.0,0.0,0.9795,0.6130713674785914,Normal (p >= 0.05),0.0889,0.9853900198183803,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+BDP,PFRs,93.18,6.82,0.9206,0.004971808649308123,No Normal (p < 0.05),1.5265,0.2134271136027063,Homocedástico (p >= 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
+EHDPHP,PFRs,100.0,0.0,0.9913,0.9818432850206109,Normal (p >= 0.05),1.5018,0.22049623065592383,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+RDP,PFRs,100.0,0.0,0.9519,0.06460412372727614,Normal (p >= 0.05),2.0975,0.09963975183189691,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+TBOEP,PFRs,97.73,2.27,0.9676,0.2491534181010147,Normal (p >= 0.05),1.9897,0.1151458179833116,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+TBP1,PFRs,90.91,9.09,0.9535,0.07415010336217571,Normal (p >= 0.05),2.9788,0.030730591139233612,Heterocedástico (p < 0.05),Rama 2: ANOVA Welch / Robusto,ANOVA Welch (Heterocedástico),Games-Howell
+TBP2,PFRs,93.18,6.82,0.9468,0.04171069921515037,No Normal (p < 0.05),1.625,0.18736134027537885,Homocedástico (p >= 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
+TBuPhP,PFRs,100.0,0.0,0.8401,2.464155793957585e-05,No Normal (p < 0.05),0.384,0.8187562471739566,Homocedástico (p >= 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
+TCEP,PFRs,100.0,0.0,0.9768,0.5114240887505495,Normal (p >= 0.05),0.4631,0.7623152175647179,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+TCIPP,PFRs,100.0,0.0,0.974,0.4156181084047427,Normal (p >= 0.05),1.6244,0.18752455284110098,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+TDBPP,PFRs,11.36,88.64,,,N/A (ND > 50%),,,N/A (ND > 50%),Rama 4: Descriptivo / Censurado,Estadística Descriptiva & Proporciones,N/A
+TDCIPP,PFRs,34.09,65.91,,,N/A (ND > 50%),,,N/A (ND > 50%),Rama 4: Descriptivo / Censurado,Estadística Descriptiva & Proporciones,N/A
+TEHP,PFRs,100.0,0.0,0.9383,0.020495645108305444,No Normal (p < 0.05),0.3612,0.8346651407172372,Homocedástico (p >= 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
+TEP,PFRs,31.82,68.18,,,N/A (ND > 50%),,,N/A (ND > 50%),Rama 4: Descriptivo / Censurado,Estadística Descriptiva & Proporciones,N/A
+TPhP,PFRs,97.73,2.27,0.9401,0.02381370267680691,No Normal (p < 0.05),0.516,0.7243389646385623,Homocedástico (p >= 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
+TpTP,PFRs,100.0,0.0,0.986,0.864100463856501,Normal (p >= 0.05),0.4424,0.7772024491517286,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+V6,PFRs,38.64,61.36,,,N/A (ND > 50%),,,N/A (ND > 50%),Rama 4: Descriptivo / Censurado,Estadística Descriptiva & Proporciones,N/A
+iDPP,PFRs,100.0,0.0,0.9747,0.43645030861427186,Normal (p >= 0.05),1.3025,0.28601009414831935,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+BBzP,PHs,100.0,0.0,0.9581,0.11023514934309842,Normal (p >= 0.05),2.8962,0.03428081429811442,Heterocedástico (p < 0.05),Rama 2: ANOVA Welch / Robusto,ANOVA Welch (Heterocedástico),Games-Howell
+DEP,PHs,95.45,4.55,0.9788,0.5844763540300615,Normal (p >= 0.05),0.0603,0.9930010909630714,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+DIDP,PHs,100.0,0.0,0.8878,0.0004701174310939135,No Normal (p < 0.05),0.4223,0.7915614465986357,Homocedástico (p >= 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
+DINP,PHs,100.0,0.0,0.8784,0.00025241409027855743,No Normal (p < 0.05),1.8042,0.14760581946283027,Homocedástico (p >= 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
+DMP,PHs,95.45,4.55,0.9561,0.09270385479809815,Normal (p >= 0.05),1.2608,0.3018018300851961,Homocedástico (p >= 0.05),Rama 1: ANOVA Clásico,ANOVA F-test (Tipo II),Tukey-Kramer
+DPP,PHs,75.0,25.0,0.8982,0.0009571671421532774,No Normal (p < 0.05),0.9336,0.45455514463884106,Homocedástico (p >= 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
+DiBP,PHs,100.0,0.0,0.9073,0.0018427006668374727,No Normal (p < 0.05),1.0114,0.4133829068745498,Homocedástico (p >= 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
+DnBP,PHs,100.0,0.0,0.8754,0.00020800162218487052,No Normal (p < 0.05),0.5077,0.7303417439872224,Homocedástico (p >= 0.05),Rama 3: Kruskal-Wallis,Kruskal-Wallis (Residuos no normales),Dunn (Ajuste FDR)
