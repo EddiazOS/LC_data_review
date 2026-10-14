@@ -1,0 +1,6 @@
+Compound,Family,CAS_RN,Detection_Frequency_%,Median_Concentration_ng_g,Max_Concentration_ng_g,Regulatory_Status,Toxicological_Implication
+BTHC,APs,82469-79-2,100.0,151.351558982981,122477.26790125456,"Sin RfD en US EPA IRIS, ATSDR ni EFSA",Brecha analítica de alta prioridad toxicológica
+THTM,APs,1528-49-0,100.0,5.423149784400681,1134.6609553206308,"Sin RfD en US EPA IRIS, ATSDR ni EFSA",Brecha analítica de alta prioridad toxicológica
+TBuPhP,PFRs,56803-37-3,100.0,18.93906991439625,1468.27459536816,"Sin RfD en US EPA IRIS, ATSDR ni EFSA",Brecha analítica de alta prioridad toxicológica
+TpTP,PFRs,78-32-0,100.0,62.399629400594335,803.6260784687236,"Sin RfD en US EPA IRIS, ATSDR ni EFSA",Brecha analítica de alta prioridad toxicológica
+iDPP,PFRs,29761-21-5,100.0,269.5693846039113,2559.0065135599148,"Sin RfD en US EPA IRIS, ATSDR ni EFSA",Brecha analítica de alta prioridad toxicológica
